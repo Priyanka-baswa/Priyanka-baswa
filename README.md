@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyanka-baswa
+- 👋 Hi, I’m @student.
 - 👀 I’m an electronics and communication engineering student.
 - 🌱 I’m currently learning front end development.
 - 💞️ I’m looking forward to obtain intern role.
